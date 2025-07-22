@@ -1,6 +1,3 @@
-# webscraping-tpm
-Extracción y visualización de la TPM mensual desde el Banco Central de Chile.
-
 
 # Web Scraping de la TPM Mensual - Banco Central de Chile
 
